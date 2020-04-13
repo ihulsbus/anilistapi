@@ -1,4 +1,4 @@
-module anilistapi
+module github.com/ihulsbus/anilistapi
 
 go 1.14
 
